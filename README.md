@@ -1,4 +1,1 @@
-# Assignment
-
-The lab writeup can be found on the [labs](https://williams-cs.github.io/cs136-s23-www/labs.html) 
-section of the [course website](https://williams-cs.github.io/cs136-s23-www/).
+Takes inputs of text and stores them within a Hashtable based on what letter comes after a string of characters (how many characters are adjustable). Generates text character by character by using the Hashtable to see what is likeliest to appear.
